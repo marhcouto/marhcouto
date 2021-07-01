@@ -1,11 +1,6 @@
-               __,__
-      .--.  .-       -.  .--.
-     / .. \/  .-. .-.  \/ .. \
-    | |  '|  /   Y   \  |'  | |
-    | \   \  \ 0 | 0 /  /   / |
-     \ '- ,\.-"`` ``"-./, -' /
-       '-' /_   ^ ^   _\ '-' 
-          |  \._   _./  |
-          \   \  ~  /   /
-           '._ '-=-' _.'
-              '~---~'
+ :pushpin: **Third year student of informatics engineering at FEUP** 
+ 
+ :e-mail: marhcouto1101@gmaiil.com 
+
+
+Check below to see some of my work...         
