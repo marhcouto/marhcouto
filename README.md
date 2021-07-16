@@ -14,6 +14,6 @@ Check below to see some of my work...
        
 ---
 
-[<img align="left" alt="marhcouto | LinkedIn" width="22px" src="Images/LI-in-bug.png" />][linkedin]
+[<img align="left" alt="marhcouto | LinkedIn" width="22px" src="Images/LI-In-Bug.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/marcelohcouto/
