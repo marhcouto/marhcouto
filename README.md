@@ -15,5 +15,7 @@ Check below to see some of my work...
 ---
 
 [<img align="left" alt="marhcouto | LinkedIn" width="22px" src="Images/LI-In-Bug.png" />][linkedin]
+[<img align="left" alt="marhcouto | Twitter" width="22px" src="Images/Logo blue.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/marcelohcouto/
+[twitter]: https://twitter.com/Marcel0hC
