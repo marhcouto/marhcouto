@@ -1,1 +1,2 @@
-<img align="center" width="500" src="Images/Trippy-Cat.gif" />
+<img align="left" width="400" src="Images/Trippy-Cat.gif" />
+
