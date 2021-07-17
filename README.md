@@ -1,2 +1,2 @@
-<img align="left" width="400" src="Images/Trippy-Cat.gif" />
+📍 ***...Check below to see some of my work...*** 📍
 
