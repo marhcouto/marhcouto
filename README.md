@@ -24,7 +24,9 @@
 
 ###
 
-<p align="left">- 🏎️ I'm currently working on making a Driverless Formula Student Prototype.<br>- 📚 For my Master's thesis, I have been exploring SLAM, State Estimation and Vehicle Modelling.<br>- ⚡ I'm interested in Robotics, Critical and Embedded Systems, Deep Learning and Simulation</p>
+- 🏎️ I'm currently working on making a Driverless Formula Student Prototype.
+- 📚 For my Master's thesis, I have been exploring SLAM, State Estimation and Vehicle Modelling.
+- ⚡ I'm interested in Robotics, Critical and Embedded Systems, Deep Learning and Simulation</p>
 
 ###
 
